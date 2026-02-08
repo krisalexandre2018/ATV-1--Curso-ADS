@@ -2,7 +2,6 @@
 print('=' * 60)
 print('Bem-vindo à Lista de Contatos de Kristian Alexandre')
 print('=' * 60)
-
 # Inicialização da lista de contatos e id_global
 lista_contatos = []
 id_global = 5569820

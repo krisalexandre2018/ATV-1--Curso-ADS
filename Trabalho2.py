@@ -8,6 +8,7 @@ def menuBoavindas():
     print('-' * 3, '|', '   G   ', '|', '     R$ 60,00     ', '|', '    R$66,00    ', '|', '-' * 3)
     print('-' * 58)
     return
+
 # Exibe o cardápio uma vez
 menuBoavindas()
 # Variável acumuladora para o valor total do pedido

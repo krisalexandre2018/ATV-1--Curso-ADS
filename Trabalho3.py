@@ -22,6 +22,7 @@ def escolha_tipo():
             print('Escolha inválida, entre com o modelo novamente ')
             continue
 
+        
         # Define o preço de acordo com a madeira escolhida
         if tipoMadeira == "PIN":
             valorMadeira = 150.40

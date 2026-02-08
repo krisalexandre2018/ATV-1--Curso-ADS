@@ -14,6 +14,7 @@ elif idade >= 49 and idade < 59:
     porcentagem = 350
 elif idade >= 59:
     porcentagem = 600
+    
 else:
     # Caso a idade seja inválida
     print('Idade inválida, reinicie o programa.')
